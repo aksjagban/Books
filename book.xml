@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<catalog>
+   <book id="bk101">
+      <author>Lewis Carroll</author>
+      <title>Alice's Adventures in Wonderland And Through the Looking-Glass</title>
+      <genre>Fiction</genre>
+      <publish_year>1865</publish_year>
+      <language>English</language>
+   </book>
+   <book id="bk102">
+      <author>Jerome K. Jerome</author>
+      <title>Three Men in a Boat (To Say Nothing of the Dog)</title>
+      <genre>Comedy novel</genre>
+      <publish_year>1889</publish_year>
+      <language>English</language>
+   </book>
+   <book id="bk103">
+      <author>Joseph Conrad</author>
+      <title>Heart of Darkness</title>
+      <genre>Novella</genre>
+      <publish_year>1899</publish_year>
+      <language>English</language>
+   </book>
+   <book id="bk104">
+      <author>Robert Louis Stevenson</author>
+      <title>Strange Case of Dr Jekyll and Mr Hyde</title>
+      <genre>Psychological thriller</genre>
+      <publish_year>1886</publish_year>
+      <language>English</language>
+   </book>
+   <book id="bk105">
+      <author>Jane Austen</author>
+      <title>Pride and Prejudice</title>
+      <genre>Romantic novel</genre>
+      <publish_year>1813</publish_year>
+      <language>English</language>
+   </book>
+   <book id="bk106">
+      <author>Emily Brontë</author>
+      <title> Wuthering Heights </title>
+      <genre>Gothic</genre>
+      <publish_year>1847</publish_year>
+      <language>English</language>
+   </book>
+   <book id="bk107">
+      <author>Oscar Wilde</author>
+      <title>The Picture of Dorian Gray</title>
+      <genre>Decadent literature</genre>
+      <publish_year>1890</publish_year>
+      <language>English</language>
+   </book>
+   <book id="bk108">
+      <author>Gustave Flaubert</author>
+      <title>Madame Bovary</title>
+      <genre>Realist novel</genre>
+      <publish_year>1856</publish_year>
+      <language>French</language>
+   </book>
+   <book id="bk109">
+      <author>Fyodor Dostoevsky</author>
+      <title>Crime and Punishment</title>
+      <genre>Philosophical novel</genre>
+      <publish_year>1866</publish_year>
+      <language>Russian</language>
+   </book>
+   <book id="bk110">
+      <author>Mary Shelley</author>
+      <title>Frankenstein</title>
+      <genre>Gothic novel</genre>
+      <publish_year>1818</publish_year>
+      <language>English</language>
+   </book>
+   <book id="bk111">
+      <author>Johann Wolfgang von Goethe</author>
+      <title>Faust</title>
+      <genre>Tragic play</genre>
+      <publish_year>1808</publish_year>
+      <language>German</language>
+   </book>
+   <book id="bk112">
+      <author>Charles Dickens</author>
+      <title>A Christmas Carol</title>
+      <genre>Novella</genre>
+      <publish_year>1843</publish_year>
+      <language>English</language>
+   </book>
+   <book id="bk113">
+      <author>Søren Kierkegaard</author>
+      <title>Fear and Trembling</title>
+      <genre>Philosophy</genre>
+      <publish_year>1843</publish_year>
+      <language>Danish</language>
+   </book>
+   <book id="bk114">
+      <author>H. G. Wells</author>
+      <title>The Time Machine</title>
+      <genre>Science fiction</genre>
+      <publish_year>1895</publish_year>
+      <language>English</language>
+   </book>
+</catalog>
